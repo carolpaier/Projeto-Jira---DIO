@@ -1,0 +1,13 @@
+# Projeto Bootcamp QA GFT
+
+## A Prática de Testes Manuais Funcionais
+
+### Este projeto visa demonstrar por meio de documentação a prática do trabalho de QA
+
+* Plano de Fluxo de Trabalho
+* Ciclo de Vida do BUG
+* User Story
+* Casos de Teste Step-by-Step
+* Casos de Teste Gherkin (BDD)
+
+#### Base dos testes: https://www.saucedemo.com/
