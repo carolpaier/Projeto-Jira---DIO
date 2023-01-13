@@ -1,6 +1,6 @@
 # Projeto Bootcamp QA GFT
 
-## A Prática de Testes Manuais Funcionais
+### A Prática de Testes Manuais Funcionais
 
 ### Este projeto visa demonstrar por meio de documentação no Jira a prática do trabalho de QA
 
